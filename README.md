@@ -2,9 +2,6 @@ Tower Defense Game
 
 Author: Jackson Davis
 
-PID: 730335247
-
-
 Requirements:
     -pygame
     -pygame_gui
