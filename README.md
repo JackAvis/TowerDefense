@@ -7,7 +7,7 @@ A simple Tower Defense Game built with Pygame
 
 The Goal of the game is to simply last as many levels as possible by placing soliders and using upgrades.
 
-- To place soldiers or trap, press the red square, which will turn purple. 
+- To place soldiers (green circles) or traps (black circles), press the red square, which will turn purple. 
 - This means you are in placing mode, so every click (as long as it is legal), will place a soldier or trap. 
 - Pressing the button again puts you out of placing mode.
 
