@@ -27,5 +27,5 @@ The Goal of the game is to simply last as many levels as possible by placing sol
 
 # How to run
 
-Pull the repo, then pip install both Pygame and Pygame_gui
+Pull the repo, then pip install both Pygame and Pygame_gui.
 You can then run the game through executing the ```runner.py``` file, which will bring up a playable window.
